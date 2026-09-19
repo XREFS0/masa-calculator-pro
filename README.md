@@ -1,4 +1,4 @@
-# MASA Calculator Pro
+﻿# MASA Calculator Pro
 
 A high-precision desktop calculator application engineered with Python and CustomTkinter, featuring an asynchronous evaluation pipeline, dynamic UI updates, and hardware key-binding support.
 
@@ -11,6 +11,10 @@ The application is architected around an object-oriented paradigm (`MasaCalculat
 - **Key Navigation**: Seamless mapping for standard numeric keypads, functional operators, and operational shortcuts (`Return`, `Escape`, `BackSpace`).
 - **GUI Pipeline**: Dark-themed component tree constructed with modern DPI-scaled widgets from CustomTkinter.
 
+
+## Preview
+
+![Application Interface](screenshots/app_interface.png)
 ## Features
 
 - Basic Arithmetic Operations (Addition, Subtraction, Multiplication, Division).
@@ -42,12 +46,13 @@ python "Simple Calculator App using Tkinter in Python/index.py"
 
 ```
 .
-├── Simple Calculator App using Tkinter in Python/
-│   └── index.py        # Core application source
-├── LICENSE             # MIT License
-└── README.md           # Engineering documentation
+â”œâ”€â”€ Simple Calculator App using Tkinter in Python/
+â”‚   â””â”€â”€ index.py        # Core application source
+â”œâ”€â”€ LICENSE             # MIT License
+â””â”€â”€ README.md           # Engineering documentation
 ```
 
 ## License
 
 This project is licensed under the terms of the MIT License. Refer to the `LICENSE` file for details.
+
